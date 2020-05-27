@@ -2,7 +2,7 @@
 
 Easily and quickly make updates on your Linux system
 
-**Installing**
+## Installation
 
 ```bash
 git clone https://github.com/Realtox/Simple-Linux-Updater.git
