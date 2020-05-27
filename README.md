@@ -4,9 +4,12 @@ Easily and quickly make updates on your Linux system
 
 **Installing**
 
-``git clone https://github.com/Realtox/Simple-Linux-Updater.git``
+```bash
+git clone https://github.com/Realtox/Simple-Linux-Updater.git```
 Go to the directory
 Use 
-``chmod 777 updater.sh``
+```bash
+chmod 777 updater.sh```
 And run it with 
-``./updater.sh``
+```bash
+./updater.sh```
