@@ -1,6 +1,6 @@
 # Simple-Linux-Updater
 
-Easily and quickly make updates to your Linux system
+Easily and quickly make updates on your Linux system
 
 **Installing**
 
