@@ -14,7 +14,7 @@ if [ "$ANS" == "Y" ]
     then
         echo "Starting"
         sudo apt update
-        sudo apt upgrade
+        sudo apt upgrade -y
         echo "Finish"
     else
         echo "Exit"
